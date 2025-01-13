@@ -1,2 +1,2 @@
-# PUC-
+# PUC
 PUC sem1
